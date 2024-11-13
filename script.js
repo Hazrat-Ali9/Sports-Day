@@ -97,3 +97,5 @@ OpeningCeremony((score, nextEvent) => {
   console.log("Previous Score:", score);
   nextEvent(score, HighJump);
 });
+
+// Script js
