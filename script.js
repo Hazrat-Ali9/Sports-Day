@@ -98,4 +98,4 @@ OpeningCeremony((score, nextEvent) => {
   nextEvent(score, HighJump);
 });
 
-// Script js
+// Script jS
